@@ -4,13 +4,6 @@
 
 To Develop a convolutional deep neural network for digit classification and to verify the response for scanned handwritten images.
 
-## Problem Statement and Dataset
-To Develop a convolutional deep neural network for digit classification and to verify the response for scanned handwritten images the dataset contains 70000 samples which is generated from tensorflow
-
-## Neural Network Model
-
-Include the neural network model diagram.
-
 ## DESIGN STEPS
 
 ### STEP 1:
@@ -21,8 +14,6 @@ Build a CNN model
 
 ### STEP 3:
 Compile and fit the model and then predict
-
-Write your own steps
 
 ## PROGRAM
 ```
